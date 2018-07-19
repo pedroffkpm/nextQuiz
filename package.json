@@ -1,0 +1,27 @@
+{
+  "name": "nextQuiz",
+  "version": "1.0.0",
+  "description": "nextQuiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroffkpm/nextQuiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroffkpm/nextQuiz/issues"
+  },
+  "homepage": "https://github.com/pedroffkpm/nextQuiz#readme",
+  "dependencies": {
+    "eslint": "^5.1.0",
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
