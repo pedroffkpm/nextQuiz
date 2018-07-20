@@ -20,6 +20,7 @@
   "homepage": "https://github.com/pedroffkpm/nextQuiz#readme",
   "dependencies": {
     "eslint": "^5.1.0",
+    "express": "^4.16.3",
     "next": "^6.1.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
